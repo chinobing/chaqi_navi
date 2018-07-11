@@ -1,0 +1,9 @@
+dash==0.21.1
+dash-renderer==0.13.0
+dash-html-components==0.11.0
+dash-core-components==0.24.0
+plotly==2.3.0
+Flask==0.12.2
+gunicorn==19.7.1
+requests==2.18.1
+pyyaml
