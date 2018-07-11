@@ -1,7 +1,7 @@
 # chaqi.net 
 
 This navigation website was initially designed by [BYR-Navi](https://byr-navi.com/ ) with [jekyll](https://jekyllrb.com/).
-I use it as my personal navigation website and I really like its desgin concept. But I am not familar with Jekyll and feel like I need a website more than just a static HTML navigation website. Thus, I modified it with Pyhton and [Plotly DASH](https://dash.plot.ly/).
+I use it as my personal navigation website and I really like its design concept. But I am not familiar with Jekyll and feel like I need a website more than just a static HTML navigation website. Thus, I modified it with Pyhton and [Plotly DASH](https://dash.plot.ly/).
 
 In general, I use Plotly DASH for data visualization only. But I really want to know what else Dash can do beside it. So here is the one.
 
