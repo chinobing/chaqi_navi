@@ -1,0 +1,495 @@
+- section: Common
+  categories:
+  - category: 法规部门
+    links:
+    - name: 新三板
+      style: green
+      url: http://www.neeq.com.cn/
+      des: 全国中小企业股份转让系统
+      icon: stack overflow orange icon
+
+    - name: 上交所
+      style: green
+      url: http://www.sse.com.cn/
+      des: 停复牌信息,定期报告预约情况,交易公开信息,质押式回购定盘利率,股票成交概况,港股通成交信息,债券成交概况,行情信息,上市开放式基金（LOF）,股票期权,ETF,债券活跃品种,沪港通,融资融券,新股配号中签查询
+      icon: stack overflow orange icon
+
+    - name: 深交所
+      style: green
+      url: http://www.szse.cn/
+      des: 基本指标,成交概况,活跃证券,行业市盈率
+      icon:
+
+    - name: 巨潮资讯
+      style: green
+      url: http://www.cninfo.com.cn/cninfo-new/index
+      des: 热点统计,选股器,投资日历,深沪停复牌,预约披露,拟上市公司,暂停上市公司,终止上市公司
+      icon:
+
+    - name: 中国证券投资资金协会
+      style: basic
+      url: http://www.amac.org.cn
+      des: 基金相关的信息
+      icon:
+
+    - name: 中国期货业协会
+      style: basic
+      url: http://www.cfachina.org/
+      des: 期货考试,法规
+      icon:
+
+    - name: 广东股权交易中心
+      style: basic
+      url: http://www.gdotc.cn/
+      des: 为非上市公司股权、债权、权益产品及相关金融产品的挂牌、转让、融资、登记、托管、结算等提供场所、设施及配套服务
+      icon:
+
+  - category: 上会|过会
+    links:
+    - name: IPO反馈意见
+      style: red
+      url: http://www.csrc.gov.cn/pub/newsite/fxjgb/scgkfxfkyj/index.html
+      des: 中国证券监督管理委员会 - 首次公开发行反馈意见
+      icon:
+
+    - name: 上会审核结果
+      style: basic
+      url: http://www.csrc.gov.cn/pub/zjhpublic/
+      des: 中国证券监督管理委员会 - 上会审核结果
+      icon:
+
+    - name: 新股上会情况
+      style: basic
+      url: http://data.eastmoney.com/xg/gh/default.html
+      des: 东方财富网
+      icon:
+      
+    - name: 新股申购
+      style: basic
+      url: http://data.eastmoney.com/xg/xg/default.html
+      des: 东方财富网 - 新股申购与中签查询
+      icon:
+
+  - category: 金融网站
+    links:
+    - name: 天眼查
+      style: red
+      url: http://www.tianyancha.com
+      des: 企业背景,企业发展,司法风险,经营风险,经营状况,知识产权方面等
+      icon:
+
+    - name: 启信宝
+      style: blue
+      url: http://www.qixin.com
+      des: 企业工商信息,法院判决信息,关联企业信息,司法拍卖信息,失信信息,被执行人信息,知识产权信息,公司新闻等
+      icon:
+
+    - name: 企查查
+      style: blue
+      url: http://www.qichacha.com
+      des: 查询企业工商信息,法院判决信息,关联企业信息,法律诉讼,失信信息,被执行人信息,知识产权信息,公司新闻,招聘信息,企业年报等服务
+      icon:
+
+    - name: i问财
+      style: red
+      url: http://www.iwencai.com/
+      des: 比较全面的股票网站,同业行业股票,行业上下游,EBITDA等
+      icon:
+
+    - name: 爱搞搞
+      icon: fa-money
+      style: basic
+      url: http://aigaogao.com
+      des: 资金流向
+
+    - name: 一点仓位
+      icon: fa-users
+      style: basic
+      url: http://www.yidiancangwei.com/
+      des: 资金流向,选股指标,股东分析,千股千评,热搜榜
+
+    - name: 仓位在线
+      style: basic
+      url: http://cwzx.shdjt.com/
+      des: 牛散或基金
+      icon:
+
+    - name: 行业市盈率
+      style: blue
+      url: http://www.szse.cn/main/marketdata/tjsj/hysyl/
+      des: 深圳证券交易所 - 行业市盈率
+      icon:
+
+    - name: 短期无风险利率
+      style: basic
+      url: http://www.shibor.org/shibor/web/html/
+      des: 上海银行间拆放利率
+      icon:
+
+    - name: 长期无风险利率
+      style: basic
+      url: https://cn.investing.com/rates-bonds/china-government-bonds?maturity_from=90&maturity_to=180
+      des: 政府长期债券
+      icon:
+
+    - name: 中国ViX(暂停)
+      style: basic
+      url: http://www.sse.com.cn/assortment/options/volatility/
+      des: 用股票期权合约计算出来
+      icon:
+
+    - name: 基金市场数据
+      style: basic
+      url: http://www.amac.org.cn/tjsj/xysj/jjgssj/
+      des: 基金市场数据
+      icon:
+
+    - name: 上市公司行业分类
+      style: basic
+      url: http://www.csrc.gov.cn/pub/newsite/sjtj/
+      des: 中国证券监督管理委员会 - 上市公司行业分类
+      icon:
+
+  - category: 企业公示系统
+    links:
+    - name: 国家企业公示系统
+      style: red
+      url: http://www.gsxt.gov.cn/index.html
+      des: 中华人民共和国国家工商行政管理总局
+      icon:
+
+    - name: 全国组织机构代码
+      style: basic
+      url: http://www.nacao.org.cn/portal/publish/index.html
+      des: 全国组织机构统一社会信用代码数据服务中心
+      icon:
+
+    - name: 社会组织查询
+      style: basic
+      url: http://www.chinanpo.gov.cn/search/searchOrgList.do?action=searchOrgList
+      des: 社会组织查询
+      icon:
+
+    - name: 香港企业信息
+      style: basic
+      url: https://www.icris.cr.gov.hk/csci/
+      des: 香港企业信息
+      icon:
+
+    - name: 台湾企业信息
+      style: basic
+      url: http://gcis.nat.gov.tw/mainNew/
+      des: 台湾企业信息
+      icon:
+
+    - name: 被执行人信息
+      style: basic
+      url: http://zhixing.court.gov.cn/search/
+      des: 被执行人信息
+      icon:
+
+    - name: 失信被执行人
+      style: basic
+      url: http://shixin.court.gov.cn
+      des: 失信被执行人
+      icon:
+
+    - name: 执行案款领取公告
+      style: basic
+      url: http://zxakgg.chinacourt.org/zxakggcx/index.shtml
+      des: 执行案款领取公告查询
+      icon:
+
+    - name: 中国审判流程信息
+      style: basic
+      url: https://splcgk.court.gov.cn/gzfwww/
+      des: 中国审判流程信息公开网
+      icon:
+
+    - name: 中国裁判文书
+      style: basic
+      url: http://wenshu.court.gov.cn/
+      des: 中国裁判文书网
+      icon:
+
+    - name: 全国法院限制消费人员信息
+      style: basic
+      url: http://shixin.court.gov.cn/xgl/
+      des: 全国法院限制消费人员信息
+      icon:
+
+
+
+  - category: 证书|专利|许可证
+    links:
+    - name: SooPAT专利查询引擎
+      style: red
+      url: http://www.soopat.com/
+      des: 专利搜索引擎 - 比官网的好用
+      icon:
+
+    - name: 专利检索及分析
+      style: basic
+      url: http://cpquery.sipo.gov.cn/txnPantentInfoList.do?inner-flag:open-type=window&inner-flag:flowno=1526656490330
+      des: 国家知识产权局下的专利检索网站
+      icon:
+
+    - name: 网站备案
+      style: basic
+      url: http://www.miitbeian.gov.cn/publish/query/indexFirst.action
+      des: 工业和信息化部
+      icon:
+
+    - name: 建筑行业资质
+      style: basic
+      url: http://jzsc.mohurd.gov.cn/asite/jsbpp/index
+      des: 中华人民共和国住房和城乡建设部
+      icon:
+
+    - name: 土地市场信息
+      style: basic
+      url: http://www.landchina.com/?WebShieldDRSessionVerify=nf0DgYR5uNSUd3vlEt1f
+      des: 土地市场信息查询
+      icon:
+
+    - name: 食品、药品查询
+      style: basic
+      url: http://app1.sfda.gov.cn/datasearch/face3/dir.html
+      des: 国家食品药品监督管理总局信息中心
+      icon:
+
+    - name: 卫生许可证
+      style: basic
+      url: https://slps.wsjd.gov.cn/xwfb/gzcx/PassFileQuery.jsp
+      des: 卫生许可证查询
+      icon:
+
+    - name: WIPO品牌数据库
+      style: basic
+      url: http://www.wipo.int/branddb/en/
+      des: Perform a trademark search by text or image in brand data from multiple national and international sources，including trademarks，appellations of origin and official emblems.
+      icon:
+
+
+- section: Industries
+  categories:
+  - category: 行业统计
+    links:
+    - name: 中华人民共和国工业和信息化部
+      style: red
+      url: http://www.miit.gov.cn/
+      des: 中华人民共和国工业和信息化部
+      icon:
+
+    - name: 通信业
+      style: basic
+      icon: fa-wpexplorer
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648372/index.html
+      des: 电话及互联网宽带用户分省情况,通信业主要指标完成情况,通信业经济运行情况,通信水平分省情况
+
+    - name: 电子信息
+      style: basic
+      icon: fa-microchip
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648373/index.html
+      des: 电子信息制造业运行情况,
+
+    - name: 软件业
+      icon: code blue
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648374/index.html
+      des: 电子认证服务业动态,全国软件和信息技术服务业,软件业经济运行情况
+
+  - category: 原材料工业
+    links:
+    - name:  原材料工业 |
+      style: red
+      icon: fa-flask
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/index.html
+      des: 石化化工行业,有色金属行业,建材工业,有色金属行业,造纸行业,塑料制品行业,革行业
+      
+    - name: 钢铁
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/n1648357/index.html
+      des: 钢铁行业,钢材社会库存情况
+      icon:
+      
+    - name: 有色
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/n1648358/index.html
+      icon:
+      
+      des: 有色金属行业,黄金行业
+    - name: 石化
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/n1648359/index.html
+      des: 石化化工行业,石油和化学工业
+      icon:
+      
+    - name: 化工
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/n1648360/index.html
+      des: 化工行业,造纸行业,塑料制品行业,皮革行业
+      icon:
+      
+    - name: 建材
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648356/n1648361/index.html
+      des: 建材工业,建材行业出口情况,建筑卫生陶瓷行业出口情况,混凝土与水泥制品业固定资产投资情况,建筑用石行业出口情况,建筑和技术玻璃出口情况,水泥及水泥熟料出口情况分析
+      icon:
+
+  - category: 装备工业
+    links:
+    - name:  装备工业 |
+      style: red
+      icon: fa-server
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648362/index.html
+      des: 中国机床工具行业,农机收获机械,工程机械行业,紧固件进出口,内燃机行业,挖掘机销量,工业机器人产量,塑料机械制造行业,造船产能利用监测指数
+      
+    - name: 机械
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648362/n1648364/index.html
+      des: 中国机床工具行业, 农机收获机械,工程机械行业,紧固件进出口,内燃机行业,挖掘机销量,工业机器人产量,塑料机械制造行业
+      icon:
+      
+    - name: 民用船舶
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648362/n1648365/index.html
+      des: 造船产能利用监测指数
+      icon:
+
+
+  - category: 消费品工业
+    links:
+    - name:  消费品工业 |
+      style: red
+      icon: stack overflow orange icon
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/index.html
+      des: 消费品工业
+
+    - name:  轻工
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/n1648367/index.html
+      des: 家具行业, 玩具行业, 文教体育用品行业, 造纸行业, 塑料制品行业, 皮革行业, 自行车行业, 钟表行业, 电池行业
+      icon:
+
+    - name:  纺织
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/n1648368/index.html
+      des: 纺织行业运行情况
+      icon:
+
+    - name:  食品
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/n1648369/index.html
+      des: 食品工业运行情况
+      icon:
+
+    - name:  医药
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/n1648370/index.html
+      des: 医药工业主要经济指标
+      icon:
+
+    - name: 家电
+      style: basic
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648366/n1648371/index.html
+      des: 家用电器行业运行情况
+      icon:
+
+
+  - category: 汽车行业
+    links:
+    - name:  汽车 |
+      style: red
+      icon: fa-server
+      url: http://www.miit.gov.cn/n1146312/n1146904/n1648362/n1648363/index.html
+      des: 汽车工业经济运行情况,中国品牌乘用车市场份额,新能源汽车发展,汽车出口,汽车销量排名
+
+    - name: 公安部交管局
+      style: basic
+      url: http://www.mps.gov.cn/n2255040/n4908728/index.html
+      des: 机动车保有量
+      icon:
+
+    - name: 广东省机动车排气检测机构
+      style: basic
+      url: http://pub.gdepb.gov.cn/pub/dchome.jsp?act=db15
+      des: 机动车检测站
+      icon:
+
+    - name: 环境保护部
+      style: basic
+      url: http://www.mep.gov.cn/hjzli/dqwrfz/jdcwrfz/
+      des: 机动车保有量,污染物排放,车用燃料,检测站
+      icon:
+
+    - name: 工业和信息化部
+      style: basic
+      url: http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057585/n3057592/index.html
+      des: 机动车销量
+      icon:
+
+    - name: 中国汽车流通协会
+      style: basic
+      url: http://www.cada.cn/index.html
+      des: 机动车经销商库存系数,机动车库存
+      icon:
+
+- section: Futures
+  categories:
+  - category: 宏观数据
+    links:
+    - name: 国家统计局
+      style: red
+      url: http://data.stats.gov.cn/
+      des: 统计数据生产过程,国内生产总值（GDP）,居民消费者价格指数（CPI）,生产者价格指数（PPI）,工业生产增长速度,固定资产投资,社会消费品零售总额,粮食产量,城乡居民收入与支出
+      icon:
+
+    - name: GDP增长
+      icon: fa-line-chart
+      style: basic
+      url: http://data.stats.gov.cn/swf.htm?m=turnto&id=562
+      des: 国家统计局 - GDP增长
+
+  - category: 期货数据
+    links:
+    - name: 全球交易标的指数
+      style: red
+      url: http://www.stockq.cn
+      des: 市场动态, 财经电视台, 历史资料, 指数期货, 经济数据总览, 期货交易员持仓报告, 黄金储备, 国内生产总值(GDP)
+      icon:
+      
+    - name: 大宗商品库存数据
+      style: basic
+      url: http://www.99qh.com/d/store.aspx
+      des: 铜 | 铝 | 铅锌 | 小金属 | 钢铁 | 大豆 | 豆粕 | 玉米 | 小麦 | 棉花 | 油脂 | 白糖 | 稻米 | 禽类 | PTA | 橡胶
+      icon:
+
+
+- section: Tools
+  categories:
+  - category: Markdown工具
+    links:
+    - name: 图片压缩
+      style: basic
+      url: https://tinypng.com/
+      des: 图片压缩
+      icon:
+
+    - name: 图片放大
+      style: basic
+      url: http://bigjpg.com/
+      des: 图片放大
+      icon:
+
+    - name: Excel 表格转 Markdown
+      style: basic
+      url: http://jakebathman.github.io/Markdown-Table-Generator/
+      des: Excel 表格转 Markdown
+      icon:
+
+    - name: json格式验证
+      style: basic
+      url: https://jsonlint.com/
+      des: json格式验证
+      icon:

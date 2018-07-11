@@ -1,0 +1,11 @@
+- name: Fomantic UI
+  url: https://fomantic-ui.com/
+
+- name: jQuery
+  url: https://jquery.com/
+
+- name: Plotly Dash
+  url: https://dash.plot.ly/
+
+- name: Python
+  url: https://www.python.org/
