@@ -11,6 +11,8 @@ You may notice ```the header,footer and layout``` will be created dynamically wi
 # Demo
 Link:  [ChaQi.net](http://www.chaqi.net)
 
+![](https://raw.githubusercontent.com/fundviz/chaqi_navi/master/demo.png)
+
 # BUG
 - [ ] The DASH app wont interact with custom JS for Semantic UI Popup.
 - [ ] Using html.Form as ```enter key```will trigger the callback even with empty value of dcc.Input.
